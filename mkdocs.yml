@@ -1,0 +1,13 @@
+site_name: frankois.io
+site_author: Francois Decourcelle
+copyright: "Copyright &copy; 2020 Francois Decourcelle"
+site_url: https://frankois.io
+repo_name: frankois/frankois.github.io
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme:
+    name: lux
+    custom_dir: custom_theme/
